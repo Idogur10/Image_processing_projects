@@ -1,0 +1,10 @@
+# --- Environments ---
+.venv/
+venv/
+env/
+*.env
+*.venv
+
+# --- PyCharm / IDE ---
+.idea/
+.vscode/
