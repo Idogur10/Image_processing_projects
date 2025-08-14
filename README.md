@@ -1,1 +1,1 @@
-# Image_processing_projects
+# Open CV bootcamp free course
